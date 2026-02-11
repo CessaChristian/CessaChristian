@@ -72,12 +72,29 @@ motto: "Code, Learn, Repeat."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CessaChristian&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=CessaChristian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=CessaChristian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CessaChristian&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CessaChristian&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CessaChristian&theme=github_dark" width="95%" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CessaChristian&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CessaChristian&theme=github_dark" width="32%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CessaChristian&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CessaChristian&theme=github_dark" width="32%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CessaChristian&theme=github_dark&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CessaChristian&theme=github_dark&utcOffset=7" width="32%" />
+</picture>
 
 </div>
 
@@ -89,15 +106,6 @@ motto: "Code, Learn, Repeat."
 <div align="center">
 
 [![Cessa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CessaChristian&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb)](https://github.com/CessaChristian)
-
-</div>
-
-<br>
-
-<!-- TROPHY -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CessaChristian&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C" width="98%" />
 
 </div>
 
