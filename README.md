@@ -73,7 +73,7 @@ motto: "Code, Learn, Repeat."
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CessaChristian&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CessaChristian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=CessaChristian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br><br>
 
@@ -97,7 +97,7 @@ motto: "Code, Learn, Repeat."
 <!-- TROPHY -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CessaChristian&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=CessaChristian&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C" width="98%" />
 
 </div>
 
@@ -131,7 +131,7 @@ motto: "Code, Learn, Repeat."
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default" alt="Random Dev Quote" />
 
 </div>
 
