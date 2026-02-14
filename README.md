@@ -5,13 +5,16 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%91%8B+Hi,I'm a software engineering student;obsessed with cars." alt="Typing SVG" />
 </a>
 
 </div>
 
+<!-- Cars Gif -->
+<img src="./asset/mobil.gif" alt="Preview" width="1000">
+
 <!-- ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+## &nbsp;About Me
 
 ```yaml
 name: Cessa Christian
@@ -20,18 +23,9 @@ education: Universitas Kristen Satya Wacana
 role: Fullstack Developer
 currently_learning: ["Go", "Flutter", "System Design"]
 interests: ["Web Development", "Mobile Apps", "Open Source"]
-motto: "Code, Learn, Repeat."
+motto: "coffee before everything."
 ```
 
-<br>
-
-- 🎓 &nbsp;Mahasiswa di **Universitas Kristen Satya Wacana**
-- 💻 &nbsp;Passionate tentang **Fullstack Development**
-- 🌱 &nbsp;Sedang mendalami **Go, Flutter & Cloud Technologies**
-- 🎯 &nbsp;Fokus tahun 2026: Kontribusi lebih banyak ke **Open Source**
-- ☕ &nbsp;Powered by kopi dan rasa penasaran
-
-<br>
 
 <!-- TECH STACK -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
@@ -70,11 +64,7 @@ motto: "Code, Learn, Repeat."
 <!-- GITHUB STATS -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
 
-<div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=CessaChristian&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CessaChristian&theme=github_dark" />
@@ -102,12 +92,6 @@ motto: "Code, Learn, Repeat."
 
 <!-- CONTRIBUTION GRAPH -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="28" /> &nbsp;Contribution Graph
-
-<div align="center">
-
-[![Cessa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CessaChristian&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb)](https://github.com/CessaChristian)
-
-</div>
 
 <br>
 
